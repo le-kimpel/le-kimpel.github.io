@@ -14,4 +14,14 @@ paths and cycles*, Discrete Mathematics (2024).
 
 Lauren Kimpel, *Some fellow-traveler properties on finite graphs*, Master’s thesis, Johns Hopkins University, 2024.
 
+## Teaching
+
+I have TA'd the following courses as a graduate student at UD: 
+
+* MATH 241 (Analytic Geometry and Calculus 1A, Fall 2024)
+* MATH 205 (Statistical Methods, Spring 2025)
+* MATH 231 (Integrated Calculus 1A, Fall 2025)
+* MATH 115 (Precalculus, Fall 2025)
+* MATH 205 (Statistical Methods, Spring 2026, tentative).
+
 ## Miscellaneous Projects
