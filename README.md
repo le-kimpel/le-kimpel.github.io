@@ -12,11 +12,11 @@ My Resume/CV can be found [here](Kimpel_Lauren_Resume.pdf).
 
 ## Publications
 
-Esther Banaian, Kyle Celano, Megan Chang-Lee, Laura Colmenarejo, Owen Goff, Jamie Kimble, Lauren Kimpel,
+[1] Esther Banaian, Kyle Celano, Megan Chang-Lee, Laura Colmenarejo, Owen Goff, Jamie Kimble, Lauren Kimpel,
 John Lentfer, Jinting Liang, and Sheila Sundaram, *The e-positivity of the chromatic symmetric function for twinned
 paths and cycles*, Discrete Mathematics (2024). 
 
-Lauren Kimpel, *Some fellow-traveler properties on finite graphs*, Master’s thesis, Johns Hopkins University, 2024.
+[2] Lauren Kimpel, *Some fellow-traveler properties on finite graphs*, Master’s thesis, Johns Hopkins University, 2024.
 
 ## Teaching
 
