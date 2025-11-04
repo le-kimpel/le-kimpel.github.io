@@ -4,7 +4,7 @@ I am a 2nd-year mathematics PhD student at the University of Delaware. My intere
 
 ## My CV
 
-My Resume/CV can be found [here](Kimpel_Lauren_Resume (2).pdf).
+My Resume/CV can be found [here](Kimpel_Lauren_Resume.pdf).
 
 ## Publications
 
