@@ -1,6 +1,10 @@
 ## About Me
 
-I am a 2nd-year mathematics PhD student at the University of Delaware. My interests are broadly in algebra and combinatorics, and I enjoy wielding graphical objects to prove facts in algebra and vice versa. I am also interested in all things reverse-engineering and/or cybersecurity related. I have experience working with LSTM(s) for Cyrillic text-generation (among other things), which has led me down a bit of a side-tangent-level interest in adversarial attacks on neural networks.
+I am a 2nd-year mathematics PhD student at the University of Delaware. My interests are broadly in algebra and combinatorics, and I enjoy wielding graphical objects to prove facts in algebra and vice versa. I am also interested in all things reverse-engineering and/or cybersecurity related. I have experience working with LSTM(s) for Cyrillic text-generation (among other things), which has led me down a bit of a side-tangent-level interest in adversarial attacks on neural networks. 
+
+## Contact 
+
+My primary academic email address is currently lkimpel (at) ud (dot) edu. 
 
 ## My CV
 
@@ -23,4 +27,9 @@ I have TA'd the following courses as a graduate student at UD:
 * MATH 231 (Integrated Calculus 1A, Fall 2025)
 * MATH 115 (Precalculus, Fall 2025)
 * MATH 205 (Statistical Methods, Spring 2026, tentative).
+
+## Miscellaneous fun facts
+
+* I enjoy hiking, running, rock climbing, and kayaking. I also like to write (bad) fiction in my spare time and/or engage in side programming projects when the itch arises. I enjoy dabbling in foreign languages and suffer from the occasional compulsion to play the piano, much to the ire of my neighbors.
+
 
