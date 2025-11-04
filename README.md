@@ -4,7 +4,7 @@ I am a 2nd-year mathematics PhD student at the University of Delaware. My intere
 
 ## Contact 
 
-My primary academic email address is currently lkimpel (at) ud (dot) edu. 
+My primary academic email address is currently lkimpel (at) udel (dot) edu. 
 
 ## My CV
 
