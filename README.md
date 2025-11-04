@@ -1,6 +1,6 @@
 ## About Me
 
-I am a 2nd-year mathematics PhD student at the University of Delaware. My interests are broadly in algebra and combinatorics, and I enjoy wielding graphical objects to prove facts in algebra and vice versa. I am also interested in all things reverse-engineering and/or cybersecurity related.
+I am a 2nd-year mathematics PhD student at the University of Delaware. My interests are broadly in algebra and combinatorics, and I enjoy wielding graphical objects to prove facts in algebra and vice versa. I am also interested in all things reverse-engineering and/or cybersecurity related. I have experience working with LSTM(s) for Cyrillic text-generation (among other things), which has led me down a bit of a side-tangent-level interest in adversarial attacks on neural networks.
 
 ## My CV
 
@@ -24,4 +24,3 @@ I have TA'd the following courses as a graduate student at UD:
 * MATH 115 (Precalculus, Fall 2025)
 * MATH 205 (Statistical Methods, Spring 2026, tentative).
 
-## Miscellaneous Projects
