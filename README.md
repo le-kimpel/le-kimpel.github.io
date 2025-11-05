@@ -28,6 +28,10 @@ I have TA'd the following courses as a graduate student at UD:
 * MATH 115 (Precalculus, Fall 2025)
 * MATH 205 (Statistical Methods, Spring 2026, tentative).
 
+## Github
+
+My Github page is [here](https://github.com/le-kimpel). These projects mostly consist of work borne from general curiosity. However, some old school projects are also visible, and are indicated as such.
+
 ## Miscellaneous fun facts
 
 * I enjoy hiking, running, rock climbing, and kayaking. I also like to write (bad) fiction in my spare time and/or engage in side programming projects when the itch arises. I enjoy dabbling in foreign languages and suffer from the occasional compulsion to play the piano, much to the ire of my neighbors.
