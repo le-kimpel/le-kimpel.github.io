@@ -20,6 +20,7 @@ paths and cycles*, Discrete Mathematics (2024).
 
 ## Teaching
 
+As of Winter 2026, I am teaching MATH 010 (Intermediate Algebra).
 I have TA'd the following courses as a graduate student at UD: 
 
 * MATH 241 (Analytic Geometry and Calculus 1A, Fall 2024)
